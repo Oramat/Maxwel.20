@@ -1,0 +1,17 @@
+{
+    "songs": [
+      {
+        "name": "Song 1",
+        "artist":"Artist 1",
+        "Album":"Album 1",
+        "url":"21Savage-ASMR(OfficialAudio)_369.m4a"
+      },
+      {
+        "name": "song 2",
+        "artist": "Artist 2",
+        "Album":"Album 2",
+        "url": "SAINt_JHN_-_Roses_(Imanbek_Remix)_(Official_Music_Video)(0).m4a"
+      }
+    ]
+  
+      }
