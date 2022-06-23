@@ -1,0 +1,65 @@
+ /* Styling the body */
+ * {
+    padding: 0;
+    margin: 0;
+}
+
+/* Styling the background image */
+.container {
+    height: 100vh;
+    width: 100%;
+    background-image: url(images\ \(55\).jpeg);
+     
+    /* Styling the background image */
+    background-size: contain;
+    background-position: right;
+
+}
+
+/* Styling the list tags  */
+.nav li {
+    float: right;
+    list-style: square outside;
+}
+
+/* Styling the anchor tags*/
+.nav a {
+    list-style: square outside;
+    height: 40px;
+    line-height: 100px;
+    padding: 5px 80px;
+    font-size: large;
+    font-weight: 700;
+    display: inline-block;
+    color: yellow;
+}
+
+/* Styling the content */
+.content {
+    width: 100%;
+    position: sticky;
+    bottom: 40%;
+    text-align: center;
+}
+
+/* Styling the text in the center */
+.center p {
+    font-size: 50px;
+    color: red;
+    font-weight: 700;
+    margin-left: 50px;
+    padding: -100px 100px;
+}
+/* Styling the maxwel music */
+.center h1 {
+    font-size: 50px;
+    color: orange;
+    padding: 0px 50px;
+}
+
+/* Styling the cursor */
+#icon {
+    cursor: sw-resize;
+    padding: 5px 100px;
+    
+}
